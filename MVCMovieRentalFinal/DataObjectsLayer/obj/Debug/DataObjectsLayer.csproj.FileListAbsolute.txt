@@ -1,0 +1,12 @@
+D:\MovieManagerFinal\MovieRentalFinal\DataObjectsLayer\bin\Debug\DataObjectsLayer.dll
+D:\MovieManagerFinal\MovieRentalFinal\DataObjectsLayer\bin\Debug\DataObjectsLayer.pdb
+D:\MovieManagerFinal\MovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.csprojAssemblyReference.cache
+D:\MovieManagerFinal\MovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.csproj.CoreCompileInputs.cache
+D:\MovieManagerFinal\MovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.dll
+D:\MovieManagerFinal\MovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.pdb
+D:\Final Project\MVCMovieRentalFinal\DataObjectsLayer\bin\Debug\DataObjectsLayer.dll
+D:\Final Project\MVCMovieRentalFinal\DataObjectsLayer\bin\Debug\DataObjectsLayer.pdb
+D:\Final Project\MVCMovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.csproj.CoreCompileInputs.cache
+D:\Final Project\MVCMovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.dll
+D:\Final Project\MVCMovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.pdb
+D:\Final Project\MVCMovieRentalFinal\DataObjectsLayer\obj\Debug\DataObjectsLayer.csprojAssemblyReference.cache

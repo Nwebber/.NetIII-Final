@@ -1,0 +1,33 @@
+﻿@model IEnumerable<DataObjectsLayer.Movie>
+
+@{
+    ViewBag.Title = "Rented";
+}
+
+<h2>Rented</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MovieTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MovieDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MovieTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MovieDate)
+        </td>
+        <td>
+            @Html.ActionLink("Return Movie", "Return", new { id=item.MovieID })
+    </tr>
+}
+
+</table>

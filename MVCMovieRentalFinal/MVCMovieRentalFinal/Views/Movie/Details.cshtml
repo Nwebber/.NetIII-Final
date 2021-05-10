@@ -1,0 +1,33 @@
+﻿@model DataObjectsLayer.Movie
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Movie Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Title
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MovieTitle)
+        </dd>
+
+        <dt>
+            Release Date
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MovieDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Rent", "Rent", new { id = Model.MovieID }) |
+    @Html.ActionLink("Back to List", "Available")
+</p>

@@ -1,0 +1,22 @@
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\bin\Debug\LogicLayer.dll
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\bin\Debug\DataObjectsLayer.dll
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\bin\Debug\DataObjectsLayer.pdb
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.dll
+D:\MovieManagerFinal\MovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\bin\Debug\DataObjectsLayer.dll
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\bin\Debug\DataObjectsLayer.pdb
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Final Project\MVCMovieRentalFinal\LogicLayer\obj\Debug\LogicLayer.pdb
